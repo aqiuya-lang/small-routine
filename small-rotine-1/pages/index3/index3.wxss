@@ -1,0 +1,28 @@
+.part-one{
+  background-color: #f0eff4d5;
+  height: 430rpx;
+}
+
+.tag{
+  padding-top: 30rpx;
+  padding-left: 50rpx;
+}
+.sculpture{
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 50%;
+  margin-top: 60rpx;
+  margin-left: 60rpx;
+}
+.part-two,.part-three,.part-four{
+ 
+  background-color: #f0eff4d5;
+  margin-top: 50rpx;
+}
+.more{
+  font-size: 30rpx;
+  height: 100rpx;
+  padding-left: 30rpx;
+  border: solid 3rpx #dcdbdf;
+  line-height: 90rpx;
+}

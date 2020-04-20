@@ -1,0 +1,29 @@
+
+<view class="nav">
+ <view class="april">2020年04月</view>
+ <view class="head">
+    <text class="date">20号</text>
+    <view class="build">今天无日程，点击创建日程</view>
+  </view>
+    <view class="may">2020年05月 ></view>
+   <view class="body">
+  
+    <view class="one">
+      <text class="date">01号</text>
+      <view class="festival">劳动节</view>
+    </view>
+
+    <view class="four">
+      <text class="date">04号</text>
+      <view class="festival">青年节</view>
+    </view>
+
+    <view class="ten">
+      <text class="date">10号</text>
+      <view class="festival">母亲节</view>
+    </view>
+
+  </view>
+</view>
+
+ 

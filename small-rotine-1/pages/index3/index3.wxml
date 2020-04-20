@@ -1,0 +1,15 @@
+<view class="part-one">
+  <view class="tag">AQ日历</view>
+  <image class="sculpture" src="../../images/head-sculpture.jpg"></image>
+</view>
+<view  class="part-two">
+  <view class="more">网页版AQ日历 ></view>
+  <view class="more">提醒设置 ></view>
+</view>
+<view  class="part-three">
+  <view class="more">意见反馈 ></view>
+  <view class="more">关于AQ ></view>
+</view>
+<view  class="part-four">
+   <view class="more">联系客服 ></view>
+</view>

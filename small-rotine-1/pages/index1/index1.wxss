@@ -1,0 +1,50 @@
+.nav{
+  width: 90%;
+  margin: auto;
+}
+.april{
+  margin-top: 50rpx;
+  color: #040404;
+  font-size: 36rpx;
+}
+.date{
+  color: #5a87ae;
+  font-size: 28rpx;
+}
+.build{
+  
+  font-size: 30rpx;
+  border: 3rpx solid #c8d8f1;
+  background-color: #eff8ff;
+  border-radius: 5rpx;
+  color: #878c90;
+  width: 500rpx;
+  height: 120rpx;
+  line-height: 120rpx;
+  text-align: center;
+}
+.head{
+  margin-top: 50rpx;
+  display: flex;
+  justify-content: space-around;
+}
+.may{
+  margin: auto;
+  margin-top: 100rpx;
+  text-align: center;
+}
+.one,.four,.ten{
+  margin-top: 50rpx;
+  display: flex;
+  justify-content: space-around;
+}
+.festival{
+  color:#eff8ff;
+  background-color: #ff9d02;
+  border: solid 2rpx #fff9b5;
+  border-radius: 8rpx;
+  width: 500rpx;
+  height: 88rpx;
+  line-height: 88rpx;
+  text-align: center;
+}
